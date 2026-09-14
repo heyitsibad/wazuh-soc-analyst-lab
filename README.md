@@ -5,12 +5,12 @@ Windows endpoint monitoring, Sysmon integration, threat detection, and
 compliance workflows. Every lab is self-performed and documented end to
 end on a personal lab environment (VirtualBox + Windows endpoint).
 
-## Progress: 1/12 Labs Documented
+## Progress: 2/12 Labs Documented
 
 | # | Lab | Status |
 |---|-----|--------|
 | 1 | [Wazuh Server Deployment & Windows Agent Enrollment](./lab-01-server-deployment) | ✅ |
-| 2 | Agent Groups & Centralized Configuration | ⏳ |
+| 2 | [Agent Groups & Centralized Configuration](./lab-02-agent-groups) | ✅ |
 | 3 | Windows Security Events & Failed Logon Detection | ⏳ |
 | 4 | Sysmon Installation & Process Event Monitoring | ⏳ |
 | 5 | File Integrity Monitoring (FIM) | ⏳ |
