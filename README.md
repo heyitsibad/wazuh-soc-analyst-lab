@@ -12,7 +12,6 @@ end on a personal lab environment (VirtualBox + Windows endpoint).
 | 1 | [Wazuh Server Deployment & Windows Agent Enrollment](./lab-01-server-deployment) | ✅ |
 | 2 | [Agent Groups & Centralized Configuration](./lab-02-agent-groups) | ✅ |
 | 3 | [Windows Security Events & Failed Logon Detection](./lab-03-failed-logon-detection) | ✅ |
-| 3 | Windows Security Events & Failed Logon Detection | ⏳ |
 | 4 | Sysmon Installation & Process Event Monitoring | ⏳ |
 | 5 | File Integrity Monitoring (FIM) | ⏳ |
 | 6 | VirusTotal Integration for Automated Threat Enrichment | ⏳ |
@@ -41,4 +40,4 @@ Each lab has its own folder containing:
 - Screenshot(s) as evidence
 
 ---
-*Labs 2–12 to be added as completed.*
+*Labs 4–12 to be added as completed.*
